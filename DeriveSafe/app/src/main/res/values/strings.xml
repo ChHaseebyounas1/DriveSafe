@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name" translatable="false">Derive Safe</string>
+    <string name="user_name" translatable="false">First Name</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="dashes" translatable="false">_______________</string>
+    <string name="or" translatable="false">OR</string>
+    <string name="create_a_new_account" translatable="false">Create a New Account</string>
+    <string name="register" translatable="false">Register</string>
+
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="enter_name" translatable="false">Enter name</string>
+    <string name="enterage" translatable="false">Enterage</string>
+    <string name="male" translatable="false">Male</string>
+    <string name="female" translatable="false">Female</string>
+
+    <string name="Open">Navigation_Darwer</string>
+    <string name="Close">Navigation_Darwer</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">1. The Application is provided forr information purpose only</string>
+    <string name="slide_14_desc">4. Continued use of Application may significantly reduce battery life so we recommend using an in-car charger.</string>
+    <string name="slide_12_desc">2. our Company is not liable for any damage r expenss araising from using the Application. The Application is only for assistance.The driver is Responsible for own and other people safety. Driver has to make their final dwcision to control by themselves.</string>
+    <string name="slide_13_desc">3. Wearing glasses and light conditions may affect perfomance and accuracy of the app.</string>
+
+    <string name="slide_2_title">Welcom to Drive Safely</string>
+    <string name="slide_2_desc">This is Derive Safely app for enhancing driver safety while driving. The application is provided for information purpose only.</string>
+
+    <string name="slide_3_title">Place your smartphone</string>
+    <string name="slide_3_desc">Mount your smartphone on the windshield in such way that it does not block the road view and the front camera faces to a driver</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
